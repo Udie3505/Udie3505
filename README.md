@@ -7,6 +7,9 @@
   - Docker, Kubernetes
 - 📫 contact me on ph:no: 341 356 2198 |gmail : s.udaykumar3505@gmail.com | [Linkedin](https://www.linkedin.com/in/udaysurabhi/)
 - 😄 Pronouns:He/His/Him
+- My certificates
+  -[Intermediate R](https://github.com/Udie3505/Certifications/blob/master/Intermediate%20R.pdf)
+  -[Introduction to R](https://github.com/Udie3505/Certifications/blob/master/Introduction%20to%20R.pdf)
 - ⚡ Hobbies:
   - playing video games and chess
   - playing cricket and badminton
