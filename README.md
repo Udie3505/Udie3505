@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Uday kumar surabhi
-- 👀 I’m currently looking for Data engineer role
+**# 👋 Hello, I’m Uday kumar surabhi**
+**## Thanks for stopping by. Here's a little about myself ....**
+- 😄 Pronouns:He/His/Him
+- 👀 I’m currently looking for a full time Data engineer role
+- 
 - 🌱 I’m currently learning
   - AWS services
   - flask framework
   - Advance SQL
   - Docker, Kubernetes
 - 📫 contact me on ph:no: 341 356 2198 |gmail : s.udaykumar3505@gmail.com | [Linkedin](https://www.linkedin.com/in/udaysurabhi/)
-- 😄 Pronouns:He/His/Him
+
 - My certificates:
   
   -[Intermediate R](https://github.com/Udie3505/Certifications/blob/master/Intermediate%20R.pdf)
