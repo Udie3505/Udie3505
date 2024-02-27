@@ -7,10 +7,7 @@
   -I worked for **The Ramco Cements Ltd** as a **Data Engineer**
   
 - 🌱 I’m currently learning
-  - AWS services
-  - flask framework
-  - Advance SQL
-  - Docker, Kubernetes
+  - SQL Query Optimization
 - 📫 contact me on ph:no: +1(341)-356-2198 |gmail : s.udaykumar3505@gmail.com | [Linkedin](https://www.linkedin.com/in/udaysurabhi/)
 
 - My certificates:
