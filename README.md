@@ -15,6 +15,8 @@
   -[Intermediate R](https://github.com/Udie3505/Certifications/blob/master/Intermediate%20R.pdf)
   
   -[Introduction to R](https://github.com/Udie3505/Certifications/blob/master/Introduction%20to%20R.pdf)
+
+  -[Smart phone sales Analysis](https://hicounselor.com/certificate/verify/OTUxMjIyMzc=)
   
 - ⚡ Hobbies:
   - playing video games and chess
