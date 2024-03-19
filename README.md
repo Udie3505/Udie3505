@@ -2,9 +2,8 @@
 
 **## Thanks for stopping by. Here's a little about myself ....**
 - 😄 Pronouns:He/His/Him
-- 👀 I’m currently looking for a full time **Data Engineer** role
-  -I work as a Data engineer for **VISA**
-  -I worked for **The Ramco Cements Ltd** as a **Data Engineer**
+- 👀 I’m currently looking for a full time role
+
   
 - 🌱 I’m currently learning
   - SQL Query Optimization
