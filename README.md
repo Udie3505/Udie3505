@@ -2,11 +2,11 @@
 
 **## Thanks for stopping by. Here's a little about myself ....**
 - 😄 Pronouns:He/His/Him
-- 👀 I’m currently looking for a full time role
+- 👀 I’m currently Working in Capgemini as a Elastic Search Developer.
 
   
 - 🌱 I’m currently learning
-  - SQL Query Optimization
+  - SQL Query Optimization, and Elastic Search Certification.
 - 📫 contact me on ph:no: +1(341)-356-2198 |gmail : s.udaykumar3505@gmail.com | [Linkedin](https://www.linkedin.com/in/udaysurabhi/)
 
 - My certificates:
